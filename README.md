@@ -31,5 +31,10 @@ The content will be removed immediately upon request.
   <li>Aesthetic collection only</li>
 </ul>
 
+<p float="left">
+  <img src="Wallpapers/Dark/asian-village.png" width="200" />
+  <img src="images/wall2.jpg" width="200" />
+</p>
+
 
 
