@@ -38,10 +38,10 @@ The content will be removed immediately upon request.
   <img src="Wallpapers/Dark/cottages-river.png" width="300" />
   <img src="Wallpapers/Dark/dark-forest.jpg" width="300" />
   
-  <img src="Wallpapers/Dark/cat-vibin.png" width="300" />
-  <img src="Wallpapers/Dark/cat-vibin.png" width="300" />
-  <img src="Wallpapers/Dark/cat-vibin.png" width="300" />
-  <img src="Wallpapers/Dark/cat-vibin.png" width="300" />
+  <img src="Wallpapers/Dark/abstract-swirls.jpg" width="300" />
+  <img src="Wallpapers/Dark/aesthetic.jpg" width="300" />
+  <img src="Wallpapers/Dark/artificial-valley.jpg" width="300" />
+  <img src="Wallpapers/Dark/astronaut.png" width="300" />
 </p>
 
 
