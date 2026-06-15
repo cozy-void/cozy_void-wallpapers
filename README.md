@@ -34,7 +34,7 @@ The content will be removed immediately upon request.
 <p float="left">
   <img src="Wallpapers/Dark/asian-village.png" width="300" />
   <img src="Wallpapers/Dark/cabin-3.png" width="300" />
-  <img src="Wallpapers/Dark/cat-vibin.png" width="300" />
+  <img src="Wallpapers/Dark/cat-vibin.png" width="200" />
   <img src="Wallpapers/Dark/cottages-river.png" width="300" />
   <img src="Wallpapers/Dark/dark-forest.jpg" width="300" />
   
