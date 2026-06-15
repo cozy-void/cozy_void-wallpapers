@@ -10,7 +10,7 @@ The purpose of this project is purely for personal use and aesthetic curation. I
   <li>I do not claim ownership of any images in this repository unless explicitly stated.</li>
   <li>All wallpapers belong to their respective original creators, artists, or copyright holders.</li>
   <li>This repository is a non-commercial collection of publicly available wallpapers.</li>
-  <li><No copyright infringement is intended./li>
+  <li>No copyright infringement is intended.</li>
 </ul>
 <br>
 <br>
