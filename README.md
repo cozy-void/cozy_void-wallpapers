@@ -1,4 +1,4 @@
-🖼️ Wallpaper Collection\n
+🖼️ Wallpaper Collection<br>
 📌 About This Repository
 
 This repository contains a curated collection of wallpapers gathered from various public sources across the internet.
